@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kittenfriends-hooks/static/css/main.7c9bc62e.css",
-    "main.js": "/kittenfriends-hooks/static/js/main.ec306320.js",
+    "main.js": "/kittenfriends-hooks/static/js/main.5c43e1a6.js",
     "static/js/453.d88c1084.chunk.js": "/kittenfriends-hooks/static/js/453.d88c1084.chunk.js",
     "static/media/SEGA.woff": "/kittenfriends-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/kittenfriends-hooks/index.html",
     "main.7c9bc62e.css.map": "/kittenfriends-hooks/static/css/main.7c9bc62e.css.map",
-    "main.ec306320.js.map": "/kittenfriends-hooks/static/js/main.ec306320.js.map",
+    "main.5c43e1a6.js.map": "/kittenfriends-hooks/static/js/main.5c43e1a6.js.map",
     "453.d88c1084.chunk.js.map": "/kittenfriends-hooks/static/js/453.d88c1084.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c9bc62e.css",
-    "static/js/main.ec306320.js"
+    "static/js/main.5c43e1a6.js"
   ]
 }
