@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Preview:**
+
+![Kitten Friends Preview](hooks-preview.png)
+
 **Kitten Friends**
 
 **Description:**
